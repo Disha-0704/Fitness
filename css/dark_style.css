@@ -1,0 +1,40 @@
+* {
+    transition-duration: 0.5s;
+}
+
+#toggle {
+    background-color: white;
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 50px auto;
+    cursor: pointer;
+}
+
+#circle {
+    display: flex;
+    margin-top: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+.class-text h1 {
+    color: black;
+}
+
+#dark {
+    color: rgb(144 144 144);
+}
+
+.color-white {
+    color: white;
+}
+
+.bck-color-black {
+    background-color: black;
+}
+
+.ml-100 {
+    margin-left: 100px;
+}
